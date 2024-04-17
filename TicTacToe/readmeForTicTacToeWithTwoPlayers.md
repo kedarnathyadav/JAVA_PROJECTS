@@ -13,19 +13,14 @@ Java Development Kit (JDK) installed on your system.
 How to Run
 Clone the repository to your local machine:
 
-
-git clone https://github.com/yourusername/tic-tac-toe.git
-Navigate to the project directory:
-
-
 cd tic-tac-toe
 Compile the Java files:
 
-Copy code
+
 javac TicTacToe.java
 Run the compiled program:
 
-Copy code
+
 java TicTacToe
 Follow the on-screen instructions to play the game.
 
