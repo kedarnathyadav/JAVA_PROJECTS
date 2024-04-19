@@ -99,6 +99,7 @@ public class TicTacToeWithComputer {
                 doYouWantToPlay = scan.nextBoolean();
             }
         }
+        scan.close();
     }
 
     public void printBoard() {
@@ -112,4 +113,5 @@ public class TicTacToeWithComputer {
             System.out.println("-------------");
         }
     }
+    
 }
