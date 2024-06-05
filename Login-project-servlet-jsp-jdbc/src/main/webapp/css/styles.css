@@ -1,0 +1,16 @@
+@charset "ISO-8859-1";
+
+.bg-custom {
+	background: #1b5e20 !important;
+}
+
+.c-head {
+	background: #8bc34a;
+}
+
+.bdy {
+	background-image: linear-gradient(to right top, #b4cd5a, #c1c647, #cebd34, #dcb422,	#eba912);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+}
